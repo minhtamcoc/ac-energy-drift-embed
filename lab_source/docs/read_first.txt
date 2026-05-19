@@ -1,0 +1,4 @@
+Giau tin video bang AC energy drift
+
+Open the lab manual:
+file://LAB_DOCS/ac-energy-drift-embed.md
